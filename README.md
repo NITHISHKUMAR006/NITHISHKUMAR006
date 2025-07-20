@@ -2,8 +2,6 @@
 <h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Nithishkumar Srinivasan </h1>
 <h3 align="left">I am human who love technology , nature and camera 📷.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" /> </p>
-
 - 🔭 I’m currently working on **PROGRAM Development**
 
 - 🌱 I’m currently learning **Full-Stack,Cloud Services**
