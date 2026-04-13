@@ -50,7 +50,7 @@ I am a developer focused on creating clean, useful solutions with **Python, Java
 ## 🌟 Featured Projects
 
 - 🔗 [**portfolio**](https://github.com/NITHISHKUMAR006/portfolio) — Personal portfolio website.
-- 🔗 [**CALENDER**](https://github.com/NITHISHKUMAR006/CALENDER) — Calendar-focused front-end project.
+- 🔗 [**Calendar Project**](https://github.com/NITHISHKUMAR006/CALENDER) — Calendar-focused front-end project.
 - 🔗 [**content-ops-starter**](https://github.com/NITHISHKUMAR006/content-ops-starter) — Starter project with TypeScript setup.
 
 ---
