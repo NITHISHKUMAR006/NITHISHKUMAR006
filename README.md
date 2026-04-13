@@ -67,7 +67,7 @@ I am a developer focused on creating clean, useful solutions with **Python, Java
 
 <p>
   <a href="https://linkedin.com/in/nithishkumarkps" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/_.nithiish.__?igsh=MXJwZjA5a2N5MDcxcw==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/_.nithiish.__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
