@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nithish Kumar</h1>
+<h1 align="center">Hi there 👋, I'm Nithishkumar</h1>
 <h3 align="center">🚀 Building practical software | 🌱 Learning every day | 📷 Tech + creativity enthusiast</h3>
 
 <p align="center">
