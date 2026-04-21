@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://github.com/NITHISHKUMAR006/NITHISHKUMAR006/blob/main/assets/thoughtworks.gif" width="250">
+    <img src="https://github.com/NITHISHKUMAR006/NITHISHKUMAR006/blob/main/assets/thoughtworks.gif" width="350">
 </div>
 
 <h3 align="left">I am human who love technology, nature and camera 📷.</h3>
