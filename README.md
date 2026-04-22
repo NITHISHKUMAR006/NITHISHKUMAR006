@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **I love capturing memories 📷**
 
-<br/>
 
 ### 🌐 Socials:
 
