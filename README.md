@@ -248,15 +248,7 @@ public class Nithishkumar {
 
 ---
 
-<div align="center">
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NITHISHKUMAR006&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 <div align="center">
 
