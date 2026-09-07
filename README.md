@@ -26,14 +26,16 @@ public class Nithishkumar {
 
     String  name        = "Nithishkumar Srinivasan";
     String  username    = "NITHISHKUMAR006";
-    String  college     = "DGCT Salem — B.Tech CSE (2024–2028)";
-    double  cgpa        = 8.84;
+    String  college     = "HCT Salem — B.Tech CSE (2024–2028)";
+    double  cgpa        = 8.99;
     String  role        = "Aspiring Java Full Stack Developer";
     String  location    = "Salem, Tamil Nadu, India 🇮🇳";
 
     String[] academicHighlights = {
         "🏅 O Grade — Data Structures (Highest Grade)",
+        "🏅 O Grade — Database Management System (Highest Grade)",
         "🏅 O Grade — Design & Analysis of Algorithms",
+        "🏅 O Grade — Operating Systems",
         "💪 DSA Strength: Trees, Graphs, DP, Sorting, Complexity"
     };
 
